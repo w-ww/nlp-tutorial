@@ -14,11 +14,15 @@ https://www.zhihu.com/question/27836140
 ### distributed representation 
 
 (分散式表示)向量的每一维都表示文本的某种潜在的语法或语义特征
+http://colah.github.io/posts/2014-07-NLP-RNNs-Representations/
 https://www.zhihu.com/question/45027109/answer/129387065
 https://zhuanlan.zhihu.com/p/22386230
 [![Foo](https://pic1.zhimg.com/80/d6a33408a8bf47e3af5b3f9623233fd4_720w.jpg)](https://zhuanlan.zhihu.com/p/22386230)
 
+### Hyperbolic Tangent
 
+tanhtanh为双曲正切函数，其英文读作Hyperbolic Tangent。tanh和 sigmoid 相似，都属于饱和激活函数，区别在于输出值范围由 (0,1) 变为了 (-1,1)，可以把 tanh 函数看做是 sigmoid 向下平移和拉伸后的结果。
+https://zhuanlan.zhihu.com/p/73214810
 
 
 
